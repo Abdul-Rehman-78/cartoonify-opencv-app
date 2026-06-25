@@ -2,14 +2,6 @@
 
 A computer vision application that transforms photographs into cartoon-style images using OpenCV. The app provides live, interactive controls for smoothing, edge detection, color saturation, and posterization, along with one-click style presets (Anime, Comic Book, Disney).
 
-## Group 12
-
-| Name | Roll Number |
-|---|---|
-| Numan Ahmad Gohar | 2023-CS-521 |
-| Abdul Rehman | 2023-CS-578 |
-| Shumail Khan | 2023-CS-584 |
-
 ## Overview
 
 The original input image goes through a pipeline of classic computer vision operations to produce a cartoon effect:
